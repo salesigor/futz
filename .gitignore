@@ -1,0 +1,5 @@
+node_modules
+user-data-dir
+/config.js
+haxroomie.lock
+.env

@@ -1,0 +1,38 @@
+{
+  "name": "haxroomie-cli",
+  "version": "2.6.4",
+  "description": "Command Line Interface for haxroomie to run and control HaxBall rooms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "haxroomie-cli": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morko/haxroomie.git"
+  },
+  "keywords": [
+    "haxroomie",
+    "haxball"
+  ],
+  "author": "Oskari Pöntinen <mail.morko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morko/haxroomie/issues"
+  },
+  "homepage": "https://github.com/morko/haxroomie/packages/haxroomie-cli#readme",
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "command-exists": "^1.2.9",
+    "deep-equal": "^2.0.5",
+    "haxroomie-core": "^2.6.4",
+    "lockfile": "^1.0.4",
+    "yargs": "^17.3.1"
+  },
+  "gitHead": "37b658ebc4c914a9525b8cb72d5e8ce4b5f56399"
+}

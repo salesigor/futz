@@ -1,0 +1,11 @@
+{
+  "haxroomie-cli-config": {
+    "title":"haxroomie-cli config file"
+  },
+  "haxroomie-cli-install": {
+    "title":"Installing haxroomie-cli in Ubuntu"
+  },
+  "custom-hhm-config": {
+    "title":"Custom HHM Config"
+  }
+}

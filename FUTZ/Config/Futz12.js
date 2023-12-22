@@ -1,7 +1,7 @@
 /* ROOM */
 
-const botVersion = "𝙵𝚄𝚃𝚉 𝚟11";
-const roomName = `3/4✘ | ${botVersion} | 🏆C̶o̶l̶a̶ ̶n̶a̶ ̶h̶u̶m̶i̶l̶d̶a̶d̶e̶  `;
+const botVersion = "𝙵𝚄𝚃𝚉 𝚟12";
+const roomName = `𝟯✘𝟯 | ${botVersion} | 🏆C̶o̶l̶a̶ ̶n̶a̶ ̶h̶u̶m̶i̶l̶d̶a̶d̶e̶  `;
 /* NOMES SUGERIDOS:
 1: 🏆 3x3 Futsal ⚽ | Cola na humildade
 2: 🏆 SABOT | ⚽ 3x3 Futsal ⚽ | Cola na humildade
