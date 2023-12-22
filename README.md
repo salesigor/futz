@@ -1,2 +1,0 @@
-# futz
-FUTZ Server | Haxball 
